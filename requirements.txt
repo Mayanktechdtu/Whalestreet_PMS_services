@@ -4,4 +4,4 @@ pandas
 numpy
 matplotlib
 plotly
-ARIMA
+statsmodels
